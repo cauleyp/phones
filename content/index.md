@@ -2,3 +2,4 @@
 
 To get started click [[Phone project]]
 
+How about a [[Nice new note]]
