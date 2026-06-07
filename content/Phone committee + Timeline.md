@@ -4,7 +4,7 @@ Right now here is who is on it (until they turn me down)
 - Me
 - Maria - confirmed
 - Duane - confirmed
-- Jeremy K. - confirmed
+- Jeremy - confirmed
 
 That's it! 
 

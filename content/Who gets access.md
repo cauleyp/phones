@@ -47,6 +47,7 @@ Right now there is a phone in every classroom and office and a few shared areas.
 | Karen White       | Business office                   | Office          | 21    |
 | Julie SVV         | HR                                | Office          | 22    |
 | Patrick Juday     | CFO                               | Office          | 23    |
+| Tech department   | Tech Office                       | Office          | 24    |
 
 #### MS Hallway
 
@@ -56,7 +57,7 @@ Right now there is a phone in every classroom and office and a few shared areas.
 | Linda Mihm  | Dean of Students | Office       | 2     |
 | Katie Baker | MS DH            | Office       | 3     |
 
-### Total = 29
+### Total = 35
 
 ## Considerations
 There is going to be a new wing added to the building. This will definitely have some offices and a need for a few more phones. That is why being able to add/activate numbers is important.
@@ -65,7 +66,7 @@ Here is a list of possible considerations for our current setup:
 
 | Name         | Position           | Location   | Count | Rational                                                                                                                                                    |
 | ------------ | ------------------ | ---------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Laura Perry  | EC/LS Musuc        | Classroom  | 1     | EC Quest is housed here. If there is a need to dail 911 - it may be the fastest way.                                                                        |
+| Laura Perry  | EC/LS Music        | Classroom  | 1     | EC Quest is housed here. If there is a need to dail 911 - it may be the fastest way.                                                                        |
 | N/A          | N/A                | LS Science | 2     | Not too sure about this one, but it is a shared space.                                                                                                      |
 | Matt Murdock | LS/MS Band & Choir | Band room  | 3     | He may need to coordinate transportation or instrument repair with different vendors                                                                        |
 | Field Trip   | Chaperones         | N/A        | 4-8   | Additional lines for chaperones to communicate with parents/staff members from a Sycamore phone number - probably will not need a handset for these numbers |
