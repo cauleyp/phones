@@ -27,3 +27,8 @@ The proposed law would require all buildings to be equipped with a silent panic 
 *Sycamore currently has a silent panic button that lives up front with Maria*
 
 Since the law is passed state-by-state, the wording and requirements can change. Right now it is passed in only 11 states and proposed on 17 others. Indiana is not included in either of these lists and we should not consider it a mandatory feature that we need to have. 
+
+## E911
+This isn't a law, more like an improved 911 service. It stands for "Enhanced 911" This basically means that if someone calls 911 from one of our phones, it will tell the EMTs where they are in the building as opposed to just a 911 call originating from Sycamore School.
+
+You can read more about from the [FCC website](https://www.fcc.gov/general/9-1-1-and-e9-1-1-services).

@@ -72,3 +72,4 @@ The other option is a **Cloud phone system.** It is what you would think. Instea
 [[Phone committee + Timeline]]
 [[Demos]]
 [[Laws to consider]]
+[[What about Google Voice?]]
