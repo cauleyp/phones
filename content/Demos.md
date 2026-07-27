@@ -9,3 +9,4 @@ At this moment we are looking at six vendors - all of which Sycamore has worked 
 5) Sharp - Their phone system is more geared for corporate, but perhaps worth a look.
 6) Comcast - While we use Mitel for routing and internal calls, Comcast provides the actual service to call outside the building. They obviously have a solution and want to talk to us. 
 
+[[Comcast]]
