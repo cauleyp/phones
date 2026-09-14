@@ -71,4 +71,23 @@ Here is a list of possible considerations for our current setup:
 | Matt Murdock | LS/MS Band & Choir | Band room  | 3     | He may need to coordinate transportation or instrument repair with different vendors                                                                        |
 | Field Trip   | Chaperones         | N/A        | 4-8   | Additional lines for chaperones to communicate with parents/staff members from a Sycamore phone number - probably will not need a handset for these numbers |
 
-*This would push us to 36 total lines*
+***NOTE: AFTER DISCUSSION WITH THE PHONE COMMITTEE - WE ARE GOING TO INCLUDE TEACHERS/CLASSROOMS FOR PHONES***
+
+The reason behind this is simple - even the teacher will rarely use the phone. This is the easiest way for someone to call 911 in the room - plain and simple. It will most likely increase costs by around 40% but if something happen, anyone, staff member, student, guest can pick up the phone and dial for help. 
+
+
+| Room          | Position    | Count |
+| ------------- | ----------- | ----- |
+| Gym office    | PE teachers | 1     |
+| PS classrooms | PS teacher  | 1     |
+| PK classrooms | PK teachers | 1     |
+| K classrooms  | K teachers  | 1     |
+|               |             |       |
+Also we should have a phone line on reserver. If we have a new role unexpectedly created we that needs a line right away we will have one, and then assign a new number once we have it. 
+
+*This would push us to 65 total lines*
+- 45 physical phones only
+- 15 soft phones + physical phones
+- 5 soft phones only
+
+Also 
