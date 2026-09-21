@@ -7,6 +7,12 @@ At this moment we are looking at six vendors - all of which Sycamore has worked 
 3) ESI - They do our network wiring and have installed our Verkada system and all our security cameras. They offer only one solution, but it is a popular one in schools.
 4) GCF - They currently supply us with our Canon copiers and service. Like ESI - they only have one solution so we can see.
 5) Sharp - Their phone system is more geared for corporate, but perhaps worth a look.
-6) Comcast - While we use Mitel for routing and internal calls, Comcast provides the actual service to call outside the building. They obviously have a solution and want to talk to us. 
+6) Comcast - While we use Mitel for routing and internal calls, Comcast provides the actual service to call outside the building. They obviously have a solution and want to talk to us.
+7) Braden 
 
+## Link to notes about specific demos
 [[Comcast]]
+[[Van Ausdall & Farrar - Ring Central]]
+[[ESI - Level 365]]
+[[Gordon Flesch - Elevate Managed Voice Services]]
+
