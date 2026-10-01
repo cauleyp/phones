@@ -72,3 +72,5 @@ Auditing the current phone lines - go through and call
 ### Questions 
 - Should teachers have phone/phone lines?
 - Can we have a phone that only works internally?
+
+[[Comcast - Follow up meeting]]
