@@ -46,7 +46,8 @@ Ben Andrus -
 - Looks nice, similar to to others
 - Voicemail, dial pad, messages all in one place
 
-
+## Different licensing tiers
+![tiers](https://pub-625baf1741694afcb4f2c21b4121f3ed.r2.dev/screenshots/comcast-tiers.png)
 
 
 
