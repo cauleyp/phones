@@ -45,3 +45,6 @@ Exploring today to figure out what should be included in the quote
 - What happens when our phone system goes down (power outage)
 	- Cell phone + the app
 	- They have their own redundancy so if they run into an issue
+
+[[VA&F - 8x8 Demo]]
+[[VA&F - Ring Central Demo]]
