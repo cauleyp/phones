@@ -1,88 +1,120 @@
-September 29, 2026
-David Lee - Phone specialists
-Andrew Gauer - new account rep
+September 28, 2026
+David Hunnicutt
+Jenny Holden
+Jason Johansen
 
---- 
-## Elevate
-- Cloud based system
-- One license for soft & hard phones for all users regardless of needs
-- PoE or WiFi phones
-- Promos are available for free phones depending on package
-- Call flip - send from phone to smartphone
-- Auto attendant 
-- Call recording is built in
-- GFC is the support - 800 number 
-	- 24/7 support
-	- Weekend and after hours goes to California
-	- Very good support
+---
+## Intro
+- Scalability is important
+- Easy to leave
+- Easy to repurpose phones
+- 2009 started in business
+- ESI partnered with 5/6 years
+- Big footprint in K-12
+- Undestand schools
+- Good support - national presence 
+	- Indy HQ here
+	- Part of the service
+- We explained our needs
 
-## Softphone 
-- Desktop and computer look similar as you would expect
-- SMS messaging
-- No matter 
-- Also internal chats
-	- Can create "channels" to make internal chats
-	- As long as they have data - they can communicate with no issues
-	- They do offer international call options
-- Everyone has a number associated with their account - that is what shows up on caller id
-	- Can change the caller id to anonymous
-- Texting -  out of the box
-	- Each user gets 500 a month
-		- Can go over but there is a charge after that
-- Company messaging - Extra
-	- Allows texting from a group 
-	- Maybe for advancement
-- Possible to create an internal & external group - should work
-- Can do text blasts but need to go up to the next level
-- We can have some special licenses for specific people
-- It is month-to-month to adjust people and services
-	- We call their support
-- VOIP Scout test for network
-- They have a video meeting capability
-	- File share platform is also included
+## Demo time - Jason
+- Add smart adapter to the Bogen PA system
+	- Multicast paging
+	- Page to phones
+	- Page to specific zones/speakers
+	- Can push pre-recorded messages
+- Very flexible platform and can grow with us 
+- Can add location of phones to pass to EMT
+- Emergency calls (911)
+	- Can add a message and text message
+	- Can customize the text group
+- Can group people in many different ways
 
-## Voicemail
-- Transcription, wav file, email, even add additional email to clue in others
-- Can forward and set up ringing options
-- Can make groups for departments (enrollment) - user base
-	- Can import with CSV file
+## Answering rules
+- Night hours
+- Closed days
+	- Can add timeframes to the phone system
+	- Can automatically add dates on a recurring basis
+	- We can make our own
+		- We can also add the "Observe" day
+	- Even add a temporary closed day
+	- Very easy to manage
+	- Add as many rules as we want to
+- Can do this from the computer/smartphone
+- Can even add an auto attendant for snow days
+- Messages for hold
+- Auto attendance pretty easy to manage as well
 
-## Paging 
-- From handset or softphone
-- ATA device - turns the Bogen into a phone
+## Users
+- Click any user to make changes
+- Voicemail
+- Transcription
+- After email - move to saved
+- Phone, text, email notifications
+- Can impersonate different users
+- When they login - they can see all voicemails (transcribed)
+	- Forward, download, email
 
-## Transferring
-- Has its own button on soft phone
-- Has its oen menu
-	- Warm transfer - call that individual first
-	- Blind transfer - Just sends the call
-	- Send ti voicemail
-	- Can transfer out of the building as well
-- User can determine how and when it rings
-- Can also "Park" a call
-- Easy to bring another person into the call 
-	- Can kick someone
-	- Can put someone on hold
+## Text & chat
+- Chat = internal 
+- Text message
+- No group messaging 
+	- Create a user to text 
+	- They can log into it
+	- Coming in the future
+- Text messages that are not read are then emailed
+- Chat & SMS are combined together
+	- SMS shows phone number but can add as a contact
+- Shared contact is one everyone can see
+	- Can even add different phone numbers or contact methods
+- Can upload groups of people (even outside contacts - parents)
+- We can whitelist/blacklist numbers
 
-## Backend
-- 30 day of archiving is included
-- Can download all texting and phone calls
-	- All downloads encrypted and password protected
-	- HIPPA compliant
-- Rights can be tailored for each person
-- Can set up rules that if something is "said"
-- Can run lots of reports
-- Pretty intutitive system 
+## Softphone
+- Can see conversations there too
+- Easy dashboard to organize
+- Google SSO
+	- Portal & softphone
 
-## Auto attendant 
-- Calendar based
-- Call tree - drag and drop the priority 
-- Very attractive
-- Lots of options
-- After hours different messsage
-- Snow day feature
-- Can preschedule holidays 
-- If front desk doesn't answer in time - goes to autoattendant
+## Things to think about
+- SSO or email + password
+- Cannot force into SSO
+- Voicemail and portal login can be different
+	- Voicemail PIN is all that is set
+- Teacher phone rules
+	- SPAM calls
+	- Users have a pretty powerful options
 
+## Phone setup
+- Very easy to assign buttons
+- It is dynamic (for example if a name changes)
 
+## Attendant console
+- Easy for Maria
+- Can transfer directly to voicemail or to the phone
+- Can do it on the phone or from the softphone
 
+## Wrap up
+- Redundancy because it is in the cloud
+	- Can still forward to Maria's actual number
+- ESI uses 365 
+	- It is their choice
+- Can schedule training for new staff 
+- Good knowledge base
+
+## Call recording
+- We can turn it on/off 
+- Shows up in call history
+- Can see the whole call history (transfers and all)
+
+## Physical phones
+- Rental agreement/purchase
+- Yealink phones
+	- $150/handset
+	- They handle the warranty
+- To add a new phone use it the MAC address
+	- Can add identifier for rules
+- Can add a template
+- Easy to manage individual or bulks
+
+[[ESI - Follow up]]

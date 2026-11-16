@@ -11,9 +11,13 @@ At this moment we are looking at six vendors - all of which Sycamore has worked 
 7) Braden - 
 
 ## Link to notes about specific demos
-[[Comcast]]
+[[Comcast UCaaS - Demo]]
 [[ESI - Level 365]]
 [[Gordon Flesch - Elevate Managed Voice Services]]
-[[Gibson - phone solutions]]
-[[Sharp]]
-[[Van Ausdall & Farrar]]
+[[Gibson - Cummulus]]
+[[VA&F - Ring Central Demo]]
+[[VA&F - 8x8 Demo]]
+[[Zoom Demo]]
+[[Sharp - GoTo Demo]]
+
+
